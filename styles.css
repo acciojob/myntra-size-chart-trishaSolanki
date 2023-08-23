@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 .tbl{
-	border:1px solid black;
+	border:2px solid black;
 	
 	width:90%;
 	text-align:center;
@@ -13,9 +13,12 @@
 }
 .tab-5{
 	background-color:lightpink;
+	color:white;
 }
 .tab-6{
 	background-color:red;
+	color:white;
+	row-border:1px solid black;
 }
 .tab-7{
 	background-color:wheat;
