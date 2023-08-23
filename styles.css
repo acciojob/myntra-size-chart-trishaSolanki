@@ -1,2 +1,34 @@
 
 /* Your CSS Code here. */
+.tbl{
+	border:1px solid black;
+	
+	width:90%;
+	text-align:center;
+	border-collapse: collapse;
+
+}
+.tbl_1{
+	text-align:left;
+}
+.tab-5{
+	background-color:lightpink;
+}
+.tab-6{
+	background-color:red;
+}
+.tab-7{
+	background-color:wheat;
+}
+.tab-8{
+	background-color:lightgray;
+}
+.tbl_2{
+	text-align:left
+}
+.tbl_3{
+	text-align:left;
+}
+.tbl_4{
+	text-align:left;
+}
